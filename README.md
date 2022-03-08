@@ -1,5 +1,13 @@
 ### Hi there, I am Emanuel (Manny) Carreiro!
 
+- 😄 Pronouns: he/him
+
+- 📫 How to reach me: <br />
+
+carreiro.emanuel@outlook.com or manny@sousaca.com
+
+
+
 <!--
 **mannycarreiro/mannycarreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
